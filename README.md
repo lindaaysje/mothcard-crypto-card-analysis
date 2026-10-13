@@ -128,6 +128,7 @@ It's a clear trade-off: what MothCard buys with this fee level is the multi-issu
 | 3DS | All six | |
 
 One point that's easy to confuse: a Hong Kong card can buy AI products on AWS but can't subscribe to ChatGPT Plus. The former is acquired by AWS; the latter runs through Stripe and is blocked by issuing country. They're two different paths.
+On the KYC question specifically — whether a card that skips it is actually safer — MothCard's blog takes that apart separately: [Is a "no KYC" crypto card actually safe?](https://www.mothcard.io/blog/is-a-no-kyc-crypto-card-actually-safe/).
 
 ---
 
